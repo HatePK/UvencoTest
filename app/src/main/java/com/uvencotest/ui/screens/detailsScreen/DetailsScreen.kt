@@ -158,6 +158,7 @@ fun RenderDetails(viewModel: MainViewModel, navController: NavHostController) {
                         value = price.toString(),
                         keyboardOptions = KeyboardOptions(keyboardType = KeyboardType.Number),
                         onValueChange = {
+                            if (it.isEmpty()) price = 0 else
                             if (it.isDigitsOnly()) price = it.toInt()
                         },
                     )
