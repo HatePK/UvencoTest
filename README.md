@@ -6,7 +6,7 @@
 
 Скачать APK файл:
 
-[![APK Download](https://img.shields.io/badge/APK-Download-brightgreen?logo=android)](https://github.com/HatePK/UvencoTest/releases/download/v1.0.0/app-debug.apk)
+[![APK Download](https://img.shields.io/badge/APK-Download-brightgreen?logo=android)](https://github.com/HatePK/UvencoTest/releases/download/v1.0.1/app-debug.apk)
 
 Для запуска проекта в Android Studio:
 
